@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Formalisation of Cryptogrpahy
+## Formalisation of Cryptogrpahy - Alan Turing Institute
 
 Welcome to our project. Here we will provide information regarding our project and post past work as well as our vision for the future. We are based at the Alan Turing Institute in London.
 
@@ -16,19 +16,19 @@ The world of formal methods and theorem proving can provide high guarentees of c
 
 ### The Project
 
-Currently we are looking at formalising the area of Multi-Party Computation (MPC). The goal of MPC is for many parties to jointly compute functions on their inputs while keeping their inputs provate. Proofs of security in this area are completed using a simulation-based which is a widely used proof technique in cryptogrphy and little has been done to formalise it.  
+Currently we are looking at formalising the area of Multi-Party Computation (MPC). The goal of MPC is for many parties to jointly compute functions on their inputs while keeping their inputs provate. Proofs of security in this area are completed using a simulation-based which is a widely used proof technique in cryptography and little has been done to formalise it. A very thorough introdiction and beyond on the simulation proof technique has been written by Yehuda Lindell (https://eprint.iacr.org/2016/046.pdf). 
 
-We work in the theorem prover Isabelle and with the CryptHOL framework. This provides a probabilistic programming framework from which we can set up and prove the required security properties of the protocols. This framework was initally designed for the game-based approach to security and we have shown how it can be used to capture simulation based proofs aswell.
+We work in the theorem prover Isabelle and with the CryptHOL framework developed by Andreas Lochbilher (https://www.isa-afp.org/entries/CryptHOL.html). This provides a probabilistic programming framework from which we can set up and prove the required security properties of the protocols. This framework was initally designed with the game-based approach to security in mind and we have shown how it can be used to capture simulation based proofs as well. 
 
 #### Work so far
 
-We have published initial work published on this project at ITP 2017. 
+How to Simulate it in Isabelle: Towards formal proof for Multi-Party Computation. ITP 2017.
 
 ### The People
 
-David Aspinall - Professor at the University of Edinburgh and a Fellow of the Alan Turing Institute.
-David Butler - Doctoral student at the Alan Turing Institute (University of Edinburgh)
-Adria Gascon - Research Fellow at the Alan Turing Institute.
+- David Aspinall - Professor at the University of Edinburgh and a Fellow of the Alan Turing Institute.
+- David Butler - Doctoral student at the Alan Turing Institute (University of Edinburgh)
+- Adria Gascon - Research Fellow at the Alan Turing Institute.
 
 If you are interested in our work or would like to collaboarate with us please do get in contact.
 
