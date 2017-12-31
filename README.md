@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Formalisation of Cryptogrpahy - Alan Turing Institute
+## Formalisation of Cryptography - Alan Turing Institute
 
 Welcome to our project. Here we will provide information regarding our project and post past work as well as our vision for the future. We are based at the Alan Turing Institute in London.
 
