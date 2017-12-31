@@ -22,7 +22,7 @@ We work in the theorem prover Isabelle and with the CryptHOL framework developed
 
 #### Work so far
 
-How to Simulate it in Isabelle: Towards formal proof for Multi-Party Computation. ITP 2017.
+- How to Simulate it in Isabelle: Towards Formal Proof for Multi-Party Computation. ITP 2017. (https://github.com/Davetbutler/formal-crypto-project/blob/master/ITP_2017/How_to_Simulate_in_Isabelle.pdf)
 
 ### The People
 
