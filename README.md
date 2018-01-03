@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## The Project - Formalisation of Cryptography at the [Alan Turing Institute] (https://www.turing.ac.uk)
+## The Project - Formalisation of Cryptography at the Alan Turing Institute
 
 Currently we are looking at formalising the area of Multi-Party Computation (MPC). The goal of MPC is for many parties to jointly compute functions on their inputs while keeping their inputs private. Proofs of security in this area are completed using simulation-based proofs which are widely used in cryptography. A very thorough introduction and beyond on the simulation proof technique has been written by Yehuda Lindell and can be found [here](https://eprint.iacr.org/2016/046.pdf). 
 
