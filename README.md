@@ -19,7 +19,7 @@ We are currently looking at formalising proofs of security for larger MPC protoc
 - David Butler - Doctoral student at the Alan Turing Institute (University of Edinburgh) (dbutler@turing.ac.uk)
 - Adria Gascon - Research Fellow at the Alan Turing Institute.
 
-If you are interested in our work or would like to collaboarate with us please do get in contact.
+If you are interested in our work or would like to collaboarate with us please do get in contact!
 
 
 
